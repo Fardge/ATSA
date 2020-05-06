@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Repo of ATSA handcraft web site
 
-You can use the [editor on GitHub](https://github.com/Fardge/ATSA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Visualiser le site](https://fardge.github.io/ATSA/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pour des commodités de modification des textes du site web (et pour suivre leur évolution), merci de bien vouloir éditer le contenu ci-dessous.
 
-### Markdown
+Pour les plus gaillards d'entre vous, soyez-libre d'éditer directement le code source HTML. Tout est tracé, il n'y a aucun risque.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## L'Agile Tour Sophia Antipolis
 
-```markdown
-Syntax highlighted code block
+édition 2020 - Vendredi 18 Décembre 2020
 
-# Header 1
-## Header 2
-### Header 3
+L'équipe d'organisation Agile Tour Sophia Antipolis vous invite à la 9ième édition de la conférence « Agile Tour » sous le soleil de Sophia Antipolis.
 
-- Bulleted
-- List
+L'Agile Tour est une série de conférences mondiales dédiées au développement agile. L'étape sophiapolitaine est organisée par un collectif d’entreprises, d’agilistes et l’association Telecom Valley.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+Cette 9ème édition vous propose, une journée avec plusieurs temps forts :
 
-[Link](url) and ![Image](src)
-```
+* Des conférences et ateliers
+* répartis en  thématiques
+* un buffet networking
+* avec animations le midi
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Appel à orateur
 
-### Jekyll Themes
+Je particite - lien
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fardge/ATSA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Participer
 
-### Support or Contact
+Je particite - lien
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Date et lieu de l'événement
+
+Vendredi 18 septembre 2020
+à l'Université de Nice Sophia
+Campus SophiaTech - Bâtiment Forum
+400 route des Chappes - 06410 Biot Sophia Antipolis
+
+![PLan](https://www.google.com/maps/d/viewer?mid=1ULsHWNtc8SySNK4rNMaoawEMOok)
+
+## Devenir Sponsor
+
+## Sponsors & partenaires 2020
+
+## Equipe d'organisation
+
+* Frédéric Assante du Capillo - Amadeus
+* Perrine Biaut - Telecom Valley
+* Sandra Degioanni - Telecom Valley
+* Julien Fargeon - Happy Dev
+* Laurent Fourmy - Softeam Digital
+* Régis Rallo
+* Véronique Théault - Acpqualife
+* AgileSophiaAntipolis@gmail.com
+
+## Rester informé
+
+Suivez-nous sur Twitter : @AgileTourSophia
+Rejoignez notre groupe de discussion : Agile Sophia (GoogleGroup)
+Covoiturage : Ridygo
