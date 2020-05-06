@@ -1,0 +1,90 @@
+:root {
+  --theme-color-one: #AD1723;
+  --theme-color-two: #FAF552;
+  --theme-color-three: #20B0FA;
+  --theme-color-four: #1F7DAD;
+  --theme-color-five: #FA394A;
+  --THEME_FONT_DARK_COLOR: rgb(97, 97, 97);
+  --THEME_FONT_LIGHT_COLOR: rgb(255, 255, 255);
+}
+
+/* Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.section {
+  padding: 8rem 0 6rem;
+  text-align: justify;
+  color: var(--THEME_FONT_DARK_COLOR);
+}
+
+.section-heading {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+
+/* specific sections
+-––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.backgrouned-with-img {
+  background-image: url('../images/bg_campus.png');
+  background-size: cover;
+  text-align: center;
+  color: var(--THEME_FONT_LIGHT_COLOR);
+  padding-bottom: 5rem;
+}
+
+.backgrouned{
+  background-color: var(--theme-color-two);
+  background-size: cover;
+  text-align: justify;
+  padding-bottom: 5rem;
+}
+
+.backgrouned.with-color-two {
+  background-color: var(--theme-color-two);
+  color: var(THEME_FONT_DARK_COLOR);
+}
+
+.backgrouned.with-color-five {
+  background-color: var(--theme-color-five);
+  color: var(--THEME_FONT_LIGHT_COLOR);
+}
+
+.backgrouned.with-dark-color {
+  background-color: var(--THEME_FONT_DARK_COLOR);
+  color: var(--THEME_FONT_LIGHT_COLOR);
+}
+
+.centered-content {
+  text-align: center;
+  /* border-bottom: 1px solid var(--THEME_FONT_DARK_COLOR); */
+}
+
+/* widgets
+-––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.sticker {
+  border-radius: 25px;
+  background-color: rgba(0, 0, 0, .5);
+  min-width: 200px;
+  min-height: 125px;
+  padding: 1.2em 0.2em 0.8em 0.2em;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* call-for-paper
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
