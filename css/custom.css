@@ -4,6 +4,9 @@
   --theme-color-three: #20B0FA;
   --theme-color-four: #1F7DAD;
   --theme-color-five: #FA394A;
+
+  --THEME_LOGO_ATSA_ORANGE : rgb(255, 85, 0);
+  --THEME_LOGO_ATSA_BLUE : rgb(4, 140, 164);
   --THEME_FONT_DARK_COLOR: rgb(97, 97, 97);
   --THEME_FONT_LIGHT_COLOR: rgb(255, 255, 255);
 }
@@ -15,6 +18,7 @@
   padding: 8rem 0 6rem;
   text-align: justify;
   color: var(--THEME_FONT_DARK_COLOR);
+  font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
 }
 
 .section-heading {
@@ -34,7 +38,6 @@
 }
 
 .backgrouned{
-  background-color: var(--theme-color-two);
   background-size: cover;
   text-align: justify;
   padding-bottom: 5rem;
@@ -42,11 +45,11 @@
 
 .backgrouned.with-color-two {
   background-color: var(--theme-color-two);
-  color: var(THEME_FONT_DARK_COLOR);
+  color: var(--THEME_FONT_DARK_COLOR);
 }
 
-.backgrouned.with-color-five {
-  background-color: var(--theme-color-five);
+.backgrouned.with-color-logo-orange {
+  background-color: var(--THEME_LOGO_ATSA_ORANGE);
   color: var(--THEME_FONT_LIGHT_COLOR);
 }
 
@@ -83,6 +86,45 @@
 .flex-container {
   display: flex;
   flex-wrap: wrap;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 /* call-for-paper
